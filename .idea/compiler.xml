@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ElasticRPC-cluster" />
+        <module name="ElasticRPC-demo-provider" />
+        <module name="ElasticRPC-demo-consumer" />
+        <module name="ElasticRPC-serialization" />
+        <module name="ElasticRPC-monitor" />
+        <module name="ElasticRPC-common" />
+        <module name="ElasticRPC-remote" />
+        <module name="ElasticRPC-registry" />
+        <module name="ElasticRPC-config" />
+        <module name="ElasticRPC-proxy" />
+        <module name="ElasticRPC-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
